@@ -1,0 +1,472 @@
+[
+  {
+    "name": "حلوان",
+    "latitude": 29.8414,
+    "longitude": 31.3008,
+    "line": 1
+  },
+  {
+    "name": "عين حلوان",
+    "latitude": 29.8551,
+    "longitude": 31.3039,
+    "line": 1
+  },
+  {
+    "name": "جامعة حلوان",
+    "latitude": 29.8711,
+    "longitude": 31.3092,
+    "line": 1
+  },
+  {
+    "name": "وادي حوف",
+    "latitude": 29.8856,
+    "longitude": 31.3128,
+    "line": 1
+  },
+  {
+    "name": "حدائق حلوان",
+    "latitude": 29.9001,
+    "longitude": 31.3159,
+    "line": 1
+  },
+  {
+    "name": "المعصرة",
+    "latitude": 29.9146,
+    "longitude": 31.3190,
+    "line": 1
+  },
+  {
+    "name": "طرة الأسمنت",
+    "latitude": 29.9291,
+    "longitude": 31.3221,
+    "line": 1
+  },
+  {
+    "name": "كوتسيكا",
+    "latitude": 29.9436,
+    "longitude": 31.3252,
+    "line": 1
+  },
+  {
+    "name": "طرة البلد",
+    "latitude": 29.9581,
+    "longitude": 31.3283,
+    "line": 1
+  },
+  {
+    "name": "ثكنات المعادي",
+    "latitude": 29.9726,
+    "longitude": 31.3314,
+    "line": 1
+  },
+  {
+    "name": "المعادي",
+    "latitude": 29.9871,
+    "longitude": 31.3345,
+    "line": 1
+  },
+  {
+    "name": "حدائق المعادي",
+    "latitude": 30.0016,
+    "longitude": 31.3376,
+    "line": 1
+  },
+  {
+    "name": "دار السلام",
+    "latitude": 30.0161,
+    "longitude": 31.3407,
+    "line": 1
+  },
+  {
+    "name": "الزهراء",
+    "latitude": 30.0306,
+    "longitude": 31.3438,
+    "line": 1
+  },
+  {
+    "name": "مار جرجس",
+    "latitude": 30.0451,
+    "longitude": 31.3469,
+    "line": 1
+  },
+  {
+    "name": "الملك الصالح",
+    "latitude": 30.0596,
+    "longitude": 31.3500,
+    "line": 1
+  },
+  {
+    "name": "السيدة زينب",
+    "latitude": 30.0741,
+    "longitude": 31.3531,
+    "line": 1
+  },
+  {
+    "name": "سعد زغلول",
+    "latitude": 30.0886,
+    "longitude": 31.3562,
+    "line": 1
+  },
+  {
+    "name": "السادات",
+    "latitude": 30.1031,
+    "longitude": 31.3593,
+    "line": 1
+  },
+  {
+    "name": "جمال عبد الناصر",
+    "latitude": 30.1176,
+    "longitude": 31.3624,
+    "line": 1
+  },
+  {
+    "name": "عرابي",
+    "latitude": 30.1321,
+    "longitude": 31.3655,
+    "line": 1
+  },
+  {
+    "name": "الشهداء",
+    "latitude": 30.1466,
+    "longitude": 31.3686,
+    "line": 1
+  },
+  {
+    "name": "غمرة",
+    "latitude": 30.1611,
+    "longitude": 31.3717,
+    "line": 1
+  },
+  {
+    "name": "الدمرداش",
+    "latitude": 30.1756,
+    "longitude": 31.3748,
+    "line": 1
+  },
+  {
+    "name": "منشية الصدر",
+    "latitude": 30.1901,
+    "longitude": 31.3779,
+    "line": 1
+  },
+  {
+    "name": "كوبري القبة",
+    "latitude": 30.2046,
+    "longitude": 31.3810,
+    "line": 1
+  },
+  {
+    "name": "حمامات القبة",
+    "latitude": 30.2191,
+    "longitude": 31.3841,
+    "line": 1
+  },
+  {
+    "name": "سراي القبة",
+    "latitude": 30.2336,
+    "longitude": 31.3872,
+    "line": 1
+  },
+  {
+    "name": "حدائق الزيتون",
+    "latitude": 30.2481,
+    "longitude": 31.3903,
+    "line": 1
+  },
+  {
+    "name": "حلمية الزيتون",
+    "latitude": 30.2626,
+    "longitude": 31.3934,
+    "line": 1
+  },
+  {
+    "name": "المطرية",
+    "latitude": 30.2771,
+    "longitude": 31.3965,
+    "line": 1
+  },
+  {
+    "name": "عين شمس",
+    "latitude": 30.2916,
+    "longitude": 31.3996,
+    "line": 1
+  },
+  {
+    "name": "عزبة النخل",
+    "latitude": 30.3061,
+    "longitude": 31.4027,
+    "line": 1
+  },
+  {
+    "name": "المرج",
+    "latitude": 30.3206,
+    "longitude": 31.4058,
+    "line": 1
+  },
+  {
+    "name": "المرج الجديدة",
+    "latitude": 30.3351,
+    "longitude": 31.4089,
+    "line": 1
+  },
+  {
+    "name": "شبرا الخيمة",
+    "latitude": 30.124081,
+    "longitude": 31.243502,
+    "line": 2
+  },
+  {
+    "name": "كلية الزراعة",
+    "latitude": 30.115,
+    "longitude": 31.245,
+    "line": 2
+  },
+  {
+    "name": "المظلات",
+    "latitude": 30.105,
+    "longitude": 31.240,
+    "line": 2
+  },
+  {
+    "name": "الخلفاوي",
+    "latitude": 30.095,
+    "longitude": 31.235,
+    "line": 2
+  },
+  {
+    "name": "سانت تريزا",
+    "latitude": 30.095,
+    "longitude": 31.235,
+    "line": 2
+  },
+  {
+    "name": "روض الفرج",
+    "latitude": 30.095,
+    "longitude": 31.235,
+    "line": 2
+  },
+  {
+    "name": "مسرة",
+    "latitude": 30.085,
+    "longitude": 31.230,
+    "line": 2
+  },
+  {
+    "name": "الشهداء",
+    "latitude": 30.064,
+    "longitude": 31.248,
+    "line": 2
+  },
+  {
+    "name": "العتبة",
+    "latitude": 30.065,
+    "longitude": 31.220,
+    "line": 2
+  },
+  {
+    "name": "محمد نجيب",
+    "latitude": 30.055,
+    "longitude": 31.215,
+    "line": 2
+  },
+  {
+    "name": "السادات",
+    "latitude": 30.035,
+    "longitude": 31.205,
+    "line": 2
+  },
+  {
+    "name": "الأوبرا",
+    "latitude": 30.025,
+    "longitude": 31.200,
+    "line": 2
+  },
+  {
+    "name": "الدقي",
+    "latitude": 30.015,
+    "longitude": 31.195,
+    "line": 2
+  },
+  {
+    "name": "البحوث",
+    "latitude": 30.005,
+    "longitude": 31.190,
+    "line": 2
+  },
+  {
+    "name": "جامعة القاهرة",
+    "latitude": 29.995,
+    "longitude": 31.185,
+    "line": 2
+  },
+  {
+    "name": "فيصـل",
+    "latitude": 29.985,
+    "longitude": 31.180,
+    "line": 2
+  },
+  {
+    "name": "الجيزة",
+    "latitude": 29.975,
+    "longitude": 31.175,
+    "line": 2
+  },
+  {
+    "name": "أم المصريين",
+    "latitude": 29.965,
+    "longitude": 31.170,
+    "line": 2
+  },
+  {
+    "name": "ساقية مكي",
+    "latitude": 29.955,
+    "longitude": 31.165,
+    "line": 2
+  },
+  {
+    "name": "المنيب",
+    "latitude": 29.945,
+    "longitude": 31.160,
+    "line": 2
+  },
+  {
+    "name": "عدلي منصور",
+    "latitude": 30.1506,
+    "longitude": 31.4052,
+    "line": 3
+  },
+  {
+    "name": "الهايكستب",
+    "latitude": 30.1277,
+    "longitude": 31.4064,
+    "line": 3
+  },
+  {
+    "name": "عمر بن الخطاب",
+    "latitude": 30.1185,
+    "longitude": 31.4088,
+    "line": 3
+  },
+  {
+    "name": "قباء",
+    "latitude": 30.1084,
+    "longitude": 31.4120,
+    "line": 3
+  },
+  {
+    "name": "هشام بركات",
+    "latitude": 30.1084,
+    "longitude": 31.4120,
+    "line": 3
+  },
+  {
+    "name": "النزهة",
+    "latitude": 30.1084,
+    "longitude": 31.4120,
+    "line": 3
+  },
+  {
+    "name": "نادي الشمس",
+    "latitude": 30.1084,
+    "longitude": 31.4120,
+    "line": 3
+  },
+  {
+    "name": "الف مسكن",
+    "latitude": 30.1084,
+    "longitude": 31.4120,
+    "line": 3
+  },
+  {
+    "name": "هليوبوليس",
+    "latitude": 30.1023,
+    "longitude": 31.4143,
+    "line": 3
+  },
+  {
+    "name": "هارون",
+    "latitude": 30.1084,
+    "longitude": 31.4120,
+    "line": 3
+  },
+  {
+    "name": "الأهرام",
+    "latitude": 30.0952,
+    "longitude": 31.4192,
+    "line": 3
+  },
+  {
+    "name": "كلية البنات",
+    "latitude": 30.0912,
+    "longitude": 31.4237,
+    "line": 3
+  },
+  {
+    "name": "الأستاد",
+    "latitude": 30.0845,
+    "longitude": 31.4294,
+    "line": 3
+  },
+  {
+    "name": "أرض المعارض",
+    "latitude": 30.0785,
+    "longitude": 31.4345,
+    "line": 3
+  },
+  {
+    "name": "العباسية",
+    "latitude": 30.1084,
+    "longitude": 31.4120,
+    "line": 3
+  },
+  {
+    "name": "عبده باشا",
+    "latitude": 30.0712,
+    "longitude": 31.4400,
+    "line": 3
+  },
+  {
+    "name": "الجيش",
+    "latitude": 30.0650,
+    "longitude": 31.4432,
+    "line": 3
+  },
+  {
+    "name": "باب الشعرية",
+    "latitude": 30.0593,
+    "longitude": 31.4490,
+    "line": 3
+  },
+  {
+    "name": "العتبة",
+    "latitude": 30.0515,
+    "longitude": 31.4527,
+    "line": 3
+  },
+  {
+    "name": "جمال عبد الناصر",
+    "latitude": 30.0450,
+    "longitude": 31.4570,
+    "line": 3
+  },
+  {
+    "name": "ماسبيرو",
+    "latitude": 30.0402,
+    "longitude": 31.4605,
+    "line": 3
+  },
+  {
+    "name": "صفاء حجازي",
+    "latitude": 30.0336,
+    "longitude": 31.4642,
+    "line": 3
+  },
+
+  {
+    "name": "الكيت كات",
+    "latitude": 30.0213,
+    "longitude": 31.4716,
+    "line": 3
+  }
+]
+

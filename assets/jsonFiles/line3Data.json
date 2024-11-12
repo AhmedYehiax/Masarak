@@ -1,0 +1,147 @@
+[
+  {
+    "name": "عدلي منصور",
+    "latitude": 30.1234,
+    "longitude": 31.4567
+  },
+  {
+    "name": "الهايكستب",
+    "latitude": 30.2345,
+    "longitude": 31.5678
+  },
+  {
+    "name": "عمر بن الخطاب",
+    "latitude": 30.3456,
+    "longitude": 31.6789
+  },
+  {
+    "name": "قباء",
+    "latitude": 30.4567,
+    "longitude": 31.7890
+  },
+  {
+    "name": "هشام بركات",
+    "latitude": 30.5678,
+    "longitude": 31.8901
+  },
+  {
+    "name": "النزهة",
+    "latitude": 30.6789,
+    "longitude": 31.9012
+  },
+  {
+    "name": "نادي الشمس",
+    "latitude": 30.7890,
+    "longitude": 31.0123
+  },
+  {
+    "name": "ألف مسكن",
+    "latitude": 30.8901,
+    "longitude": 31.1234
+  },
+  {
+    "name": "ميدان هيليوبليس",
+    "latitude": 30.9012,
+    "longitude": 31.2345
+  },
+  {
+    "name": "هارون",
+    "latitude": 30.0123,
+    "longitude": 31.3456
+  },
+  {
+    "name": "الأهرام",
+    "latitude": 30.1234,
+    "longitude": 31.4567
+  },
+  {
+    "name": "كلية البنات",
+    "latitude": 30.2345,
+    "longitude": 31.5678
+  },
+  {
+    "name": "استاد القاهرة",
+    "latitude": 30.3456,
+    "longitude": 31.6789
+  },
+  {
+    "name": "المعرض",
+    "latitude": 30.4567,
+    "longitude": 31.7890
+  },
+  {
+    "name": "العباسية",
+    "latitude": 30.5678,
+    "longitude": 31.8901
+  },
+  {
+    "name": "عبده باشا",
+    "latitude": 30.6789,
+    "longitude": 31.9012
+  },
+  {
+    "name": "الجيش",
+    "latitude": 30.7890,
+    "longitude": 31.0123
+  },
+  {
+    "name": "باب الشعرية",
+    "latitude": 30.8901,
+    "longitude": 31.1234
+  },
+  {
+    "name": "ماسبيرو",
+    "latitude": 30.9012,
+    "longitude": 31.2345
+  },
+  {
+    "name": "صفاء حجازي",
+    "latitude": 30.0123,
+    "longitude": 31.3456
+  },
+  {
+    "name": "الكيت كات",
+    "latitude": 30.1234,
+    "longitude": 31.4567
+  },
+  {
+    "name": "السودان",
+    "latitude": 30.2345,
+    "longitude": 31.5678
+  },
+  {
+    "name": "إمبابة",
+    "latitude": 30.3456,
+    "longitude": 31.6789
+  },
+  {
+    "name": "البوهى",
+    "latitude": 30.4567,
+    "longitude": 31.7890
+  },
+  {
+    "name": "القومية العربية",
+    "latitude": 30.5678,
+    "longitude": 31.8901
+  },
+  {
+    "name": "الطريق الدائري",
+    "latitude": 30.6789,
+    "longitude": 31.9012
+  },
+  {
+    "name": "محور روض الفرج",
+    "latitude": 30.7890,
+    "longitude": 31.0123
+  },
+  {
+    "name": "العتبة",
+    "latitude": 30.8901,
+    "longitude": 31.1234
+  },
+  {
+    "name": "ناصر",
+    "latitude": 30.9012,
+    "longitude": 31.2345
+  }
+]

@@ -1,0 +1,97 @@
+[
+    {
+      "name": "شبرا الخيمة",
+      "latitude": 30.123,
+      "longitude": 31.250
+    },
+    {
+      "name": "كلية الزراعة",
+      "latitude": 30.115,
+      "longitude": 31.245
+    },
+    {
+      "name": "المظلات",
+      "latitude": 30.105,
+      "longitude": 31.240
+    },
+    {
+      "name": "روض الفرج",
+      "latitude": 30.095,
+      "longitude": 31.235
+    },
+    {
+      "name": "مسرة",
+      "latitude": 30.085,
+      "longitude": 31.230
+    },
+    {
+      "name": "الشهداء (رمسيس)",
+      "latitude": 30.075,
+      "longitude": 31.225
+    },
+    {
+      "name": "العتبة",
+      "latitude": 30.065,
+      "longitude": 31.220
+    },
+    {
+      "name": "أحمد عرابي",
+      "latitude": 30.055,
+      "longitude": 31.215
+    },
+    {
+      "name": "جمال عبد الناصر",
+      "latitude": 30.045,
+      "longitude": 31.210
+    },
+    {
+      "name": "السادات (التحرير)",
+      "latitude": 30.035,
+      "longitude": 31.205
+    },
+    {
+      "name": "الأوبرا",
+      "latitude": 30.025,
+      "longitude": 31.200
+    },
+    {
+      "name": "الدقي",
+      "latitude": 30.015,
+      "longitude": 31.195
+    },
+    {
+      "name": "البحوث",
+      "latitude": 30.005,
+      "longitude": 31.190
+    },
+    {
+      "name": "جامعة القاهرة",
+      "latitude": 29.995,
+      "longitude": 31.185
+    },
+    {
+      "name": "فيصـل",
+      "latitude": 29.985,
+      "longitude": 31.180
+    },
+    {
+      "name": "الجيزة",
+      "latitude": 29.975,
+      "longitude": 31.175
+    },
+    {
+      "name": "أم المصريين",
+      "latitude": 29.965,
+      "longitude": 31.170
+    },
+    {
+      "name": "ساقية مكي",
+      "latitude": 29.955,
+      "longitude": 31.165
+    },
+    {
+      "name": "المنيب",
+      "latitude": 29.945,
+      "longitude": 31.160
+    }
+]

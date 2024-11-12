@@ -1,0 +1,177 @@
+[
+  {
+    "name": "حلوان",
+    "latitude": 29.8414,
+    "longitude": 31.3008
+  },
+  {
+    "name": "عين حلوان",
+    "latitude": 29.8551,
+    "longitude": 31.3039
+  },
+  {
+    "name": "جامعة حلوان",
+    "latitude": 29.8711,
+    "longitude": 31.3092
+  },
+  {
+    "name": "وادي حوف",
+    "latitude": 29.8856,
+    "longitude": 31.3128
+  },
+  {
+    "name": "حدائق حلوان",
+    "latitude": 29.9001,
+    "longitude": 31.3159
+  },
+  {
+    "name": "المعصرة",
+    "latitude": 29.9146,
+    "longitude": 31.3190
+  },
+  {
+    "name": "طرة الأسمنت",
+    "latitude": 29.9291,
+    "longitude": 31.3221
+  },
+  {
+    "name": "كوتسيكا",
+    "latitude": 29.9436,
+    "longitude": 31.3252
+  },
+  {
+    "name": "طرة البلد",
+    "latitude": 29.9581,
+    "longitude": 31.3283
+  },
+  {
+    "name": "ثكنات المعادي",
+    "latitude": 29.9726,
+    "longitude": 31.3314
+  },
+  {
+    "name": "المعادي",
+    "latitude": 29.9871,
+    "longitude": 31.3345
+  },
+  {
+    "name": "حدائق المعادي",
+    "latitude": 30.0016,
+    "longitude": 31.3376
+  },
+  {
+    "name": "دار السلام",
+    "latitude": 30.0161,
+    "longitude": 31.3407
+  },
+  {
+    "name": "الزهراء",
+    "latitude": 30.0306,
+    "longitude": 31.3438
+  },
+  {
+    "name": "مار جرجس",
+    "latitude": 30.0451,
+    "longitude": 31.3469
+  },
+  {
+    "name": "الملك الصالح",
+    "latitude": 30.0596,
+    "longitude": 31.3500
+  },
+  {
+    "name": "السيدة زينب",
+    "latitude": 30.0741,
+    "longitude": 31.3531
+  },
+  {
+    "name": "سعد زغلول",
+    "latitude": 30.0886,
+    "longitude": 31.3562
+  },
+  {
+    "name": "السادات",
+    "latitude": 30.1031,
+    "longitude": 31.3593
+  },
+  {
+    "name": "جمال عبد الناصر",
+    "latitude": 30.1176,
+    "longitude": 31.3624
+  },
+  {
+    "name": "عرابي",
+    "latitude": 30.1321,
+    "longitude": 31.3655
+  },
+  {
+    "name": "الشهداء",
+    "latitude": 30.1466,
+    "longitude": 31.3686
+  },
+  {
+    "name": "غمرة",
+    "latitude": 30.1611,
+    "longitude": 31.3717
+  },
+  {
+    "name": "الدمرداش",
+    "latitude": 30.1756,
+    "longitude": 31.3748
+  },
+  {
+    "name": "منشية الصدر",
+    "latitude": 30.1901,
+    "longitude": 31.3779
+  },
+  {
+    "name": "كوبري القبة",
+    "latitude": 30.2046,
+    "longitude": 31.3810
+  },
+  {
+    "name": "حمامات القبة",
+    "latitude": 30.2191,
+    "longitude": 31.3841
+  },
+  {
+    "name": "سراي القبة",
+    "latitude": 30.2336,
+    "longitude": 31.3872
+  },
+  {
+    "name": "حدائق الزيتون",
+    "latitude": 30.2481,
+    "longitude": 31.3903
+  },
+  {
+    "name": "حلمية الزيتون",
+    "latitude": 30.2626,
+    "longitude": 31.3934
+  },
+  {
+    "name": "المطرية",
+    "latitude": 30.2771,
+    "longitude": 31.3965
+  },
+  {
+    "name": "عين شمس",
+    "latitude": 30.2916,
+    "longitude": 31.3996
+  },
+  {
+    "name": "عزبة النخل",
+    "latitude": 30.3061,
+    "longitude": 31.4027
+  },
+  {
+    "name": "المرج",
+    "latitude": 30.3206,
+    "longitude": 31.4058
+  },
+  {
+    "name": "المرج الجديدة",
+    "latitude": 30.3351,
+    "longitude": 31.4089
+  }
+]
